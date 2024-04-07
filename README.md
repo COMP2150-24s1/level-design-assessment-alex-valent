@@ -17,16 +17,17 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 at the begging of the game and during the first section i try to show off multiple mechanics at a time with a room showcaseing some of the interesting and notable interactions with the different part of the game and how they work together to create a large amount of possiblities, an example of this would be the puzzle with the acid that needs you to use the checkpoint to move on while also showing you that the acid doesn't kill and will send you back to the checkpoint with your progress saved. throught out the entire game experience it shows less new mechanics directly and starts trying to get the player to discover them on their own, for example with the lift and how it has you dodge the enemy projectiles and trying to figure out the best way to deal with it. 
 
-![discovery example image](DocImages/Discovery.png)
+![Discovery example image](DocImages/Discovery.png)
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+through out the game you are introduced to more difficult challenges that have more major setbacks and require more of the players attention this creates a more engageing experenice with the game and player.
+
+![Drama example image](DocImages/Drama.png)
 
 ### 1.3. Challenge
 
 
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-![discovery example image](DocImages/Challenge.png)
+![Challenge example image](DocImages/Challenge.png)
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
